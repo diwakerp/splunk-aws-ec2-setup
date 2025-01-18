@@ -1,0 +1,4 @@
+wget -O splunk-9.4.0-6b4ebe426ca6-linux-amd64.deb "https://download.splunk.com/products/splunk/releases/9.4.0/linux/splunk-9.4.0-6b4ebe426ca6-linux-amd64.deb"
+ sudo dpkg -i splunk-9.4.0-6b4ebe426ca6-linux-amd64.deb
+
+  This will download and install splnk on your ubuntu instance
